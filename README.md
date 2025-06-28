@@ -1,5 +1,3 @@
-:
-
 📊 Predicting Potential Prospect Customers — Netrality Data Centers
 🧠 Problem Statement
 Netrality Data Centers provided us with a business challenge:
