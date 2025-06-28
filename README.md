@@ -6,13 +6,13 @@ Identify and acquire potential customers from a list of prospect companies using
 
 We were given four datasets:
 
-All Time Billing
+(i) All Time Billing
 
-Last Month Billing
+(ii) Last Month Billing
 
-Current Customers
+(iii) Current Customers
 
-Prospect Customers
+(iv) Prospect Customers
 
 Our goal was to build a Machine Learning model to predict and recognize ideal potential customers from the prospect list, leveraging the billing histories of current and past clients.
 
